@@ -1,4 +1,4 @@
 pipfile.*
-.idea
+.idea/
 Pipfile.lock
 origin.js
