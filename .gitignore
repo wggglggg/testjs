@@ -1,4 +1,5 @@
-pipfile.*
+Pipfile
 .idea/
 Pipfile.lock
 origin.js
+snake.css
